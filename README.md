@@ -70,3 +70,6 @@ A self-hosted solution to continuously validate and monitor the health of API ke
 
 ## License
 MIT
+
+## Author
+- tigel-agm [https://github.com/tigel-agm](https://github.com/tigel-agm/)
